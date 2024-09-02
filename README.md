@@ -1,4 +1,15 @@
 # React + TypeScript + Vite
+SCHOOL TEST
+
+This test is developed using React&Vite, TypeScript, ReactRouter for navigation, StyledComponents and CSS for styling, ReactSpinners for loadingeffect, Git for downloads on GitHub.
+
+OPPRTUNITIES:
+
+1.Сhange the theme of the main page from light to dark and vice versa using the button; 
+2.Using useContext to save test results; 
+3.Using spinner from ReactSpinners for loading; 
+4.Checking account login for correctness using regular expressions; 
+5.Using UseState, useEffect, useContext from React.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
