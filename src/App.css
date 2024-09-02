@@ -1,0 +1,18 @@
+
+.app {
+  text-align: center;
+  height: 1000px;
+  width: 100vw;
+  transition: background-color 0.5s, color 0.5s;
+  }
+  .app.light {
+  background-color: #ffffff;
+  color: #000000;
+  }
+  .app.dark {
+  background-color: #9c847984;
+  color: #ffffff;
+  }
+  .app-header {
+  padding: 20px;
+  }
